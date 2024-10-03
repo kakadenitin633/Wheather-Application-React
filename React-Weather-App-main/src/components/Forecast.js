@@ -5,7 +5,7 @@ import ReactAnimatedWeather from "react-animated-weather";
 function Forecast({ weather }) {
   const { data } = weather;
   const [forecastData, setForecastData] = useState([]);
-  const [isCelsius, setIsCelsius] = useState(true); // Track temperature unit
+  const [isCelsius, setIsCelsius] = useState(true); 
 
   useEffect(() => {
     const fetchForecastData = async () => {

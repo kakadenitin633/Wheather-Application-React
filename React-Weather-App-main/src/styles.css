@@ -34,9 +34,9 @@ body {
 
 .SearchEngine input {
   width: 70%;
-  height: 40px;
+  height: 41px;
   border: none;
-  border-radius: 5px; /* Updated */
+  border-radius: 6px; /* Updated */
   padding: 2px 15px;
   font-size: 16px;
   outline: none;
@@ -55,19 +55,19 @@ body {
   height: 44px; /* Updated */
   border: none;
   border-radius: 9%; /* Updated */
-  background-color: #84cef5; /* Updated */
-  color: #fff;
+  background-color: #82c1e2; /* Updated */
+  color: #f7f4f4;
   font-size: 20px;
   outline: none;
   cursor: pointer;
 }
 
 .SearchEngine button:hover {
-  background-color: #fff;
+  background-color: #e9dede;
 }
 
 .SearchEngine button:hover i {
-  color: #f06789;
+  color: #c2acb2;
 }
 
 .error-message {
