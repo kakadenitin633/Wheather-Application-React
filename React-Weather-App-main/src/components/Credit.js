@@ -7,7 +7,7 @@ export default function Credit() {
       Coded by
       <a href="https://www.shecodes.io/graduates/73033-chaimae-lamirine"
         > Kakadenitin633</a
-      >, <a href="https://github.com/kakadenitin633/Wheather-application-React">Open sourced on Github.</a> Hosted on Netlify
+      >, <a href="https://github.com/kakadenitin633/Wheather-Application-React.git">Open sourced on Github.</a> Hosted on Netlify
     </p>
   </div>
   );
